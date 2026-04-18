@@ -56,27 +56,9 @@ A comprehensive business requirements package covering stakeholder needs, regula
 
 ### 🔄 Process Flows & Use Cases
 
-Detailed operational workflows and system interaction models.
-
-**Includes:**
-- 10-actor catalogue (customers, analysts, compliance, systems)  
-- 8 fully documented use cases:
-  - Preconditions  
-  - Main flows  
-  - Alternative flows  
-  - Exception scenarios  
-- 6 end-to-end process flows:
-  - Transaction ingestion → fraud decision  
-  - SCA challenge flow  
-  - Block & case management  
-  - Rule configuration  
-  - SAR review  
-  - SLA escalation  
-- 3 swimlane diagrams (BPMN-ready)  
-- Decision logic design:
-  - Rule scoring (40%) + ML scoring (60%)  
-  - Threshold routing: **PASS / CHALLENGE / BLOCK**  
-  - Failsafe handling  
+<p align="center">
+  <img src="process_image.png" />
+</p>
 
 ---
 
@@ -129,24 +111,9 @@ A system-level breakdown translating business needs into implementable functiona
 
 ### 📊 Current State & Data Analysis (2025 Baseline)
 
-A data-driven assessment of system performance prior to implementation.
-
-**Dataset:**
-- **720M transactions** analyzed across 2025  
-
-**Key insights:**
-- 💸 Fraud losses: **£3.59M**, trending toward **£4.3M+**  
-- 📉 Detection rate drop:
-  - 68.2% → 54.1% (−14 points YoY)  
-
-**High-risk channels:**
-- Card-Not-Present (CNP): 22,340 incidents  
-- Open Banking APIs: **46% undetected**  
-- APP fraud: **+47% YoY growth**  
-
-**Emerging fraud types:**
-- Synthetic Identity: +62% YoY (38% detection rate)  
-- APP Fraud: +47% YoY (44% detection rate)  
+<p align="center">
+  <img src="fraud_trends_and_analysis.png" />
+</p>
 
 ---
 
