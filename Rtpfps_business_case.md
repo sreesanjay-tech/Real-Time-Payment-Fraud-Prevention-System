@@ -1,12 +1,6 @@
 # Real-Time Payment Fraud Prevention System (RTPFPS)
 ## Business Case — Investment Justification, Options Appraisal & ROI Analysis
 
-> **Version:** 1.0 — Initial Draft
-> **Status:** For Approval
-> **Date:** March 06, 2026
-> **Presented To:** Chief Risk Officer / ExCo
-> **Total Investment Ask:** £1,199,000
-
 ---
 
 ## Table of Contents
