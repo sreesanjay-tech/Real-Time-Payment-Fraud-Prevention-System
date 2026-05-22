@@ -1,12 +1,6 @@
 # Real-Time Payment Fraud Prevention System (RTPFPS)
 ## Project Charter
 
-> **Version:** 1.0 — Initial Draft
-> **Status:** Approved
-> **Date:** March 06, 2026
-> **Project Sponsor:** Chief Risk Officer (CRO)
-> **Industry:** Financial Services / FinTech
-
 ---
 
 ## Table of Contents
