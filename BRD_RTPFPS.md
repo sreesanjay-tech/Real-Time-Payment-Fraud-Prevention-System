@@ -1,12 +1,6 @@
 # Real-Time Payment Fraud Prevention System (RTPFPS)
 ## Business Requirements Document
 
-> **Version:** 1.0 — Baseline Draft
-> **Status:** Baselined – Awaiting Sign-Off
-> **Date:** March 06, 2026
-> **Project:** RTPFPS – Phase 1
-> **Total Requirements:** 38 Business Requirements
-
 ---
 
 ## Table of Contents
